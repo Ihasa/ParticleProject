@@ -2,6 +2,4 @@ bin/
 obj/
 *.suo
 *.user
-*.sln
-*.csproj
 *.cachefile
